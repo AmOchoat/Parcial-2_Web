@@ -1,0 +1,1 @@
+Se intentó avanzar desde los computadores de Waira, pero estos computadores no disponian de VS Code, y al intentar instalarlo era necesario contar con permisos de Administrador. Esto dificultó todo el proceso de desarrollo de la primera parte del parcial.
